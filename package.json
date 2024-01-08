@@ -1,0 +1,21 @@
+{
+  "name": "ephemeris-server",
+  "version": "1.0.0",
+  "description": "ephemeris web server",
+  "main": "server.js",
+  "gypfile": true,
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/global-sync/ephemeris.git"
+  },
+  "author": "ss",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/global-sync/ephemeris/issues"
+  },
+  "homepage": "https://github.com/global-sync/ephemeris#readme"
+}
