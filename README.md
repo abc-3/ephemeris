@@ -1,4 +1,4 @@
-# Swiss Ephemeris Bindings
+# Swiss Ephemeris (NASA JPL) Bindings
 
 This repository contains C++ bindings for the ![Swiss Ephemeris](https://www.astro.com/swisseph/swephinfo_e.htm), a high precision ephemeris based upon the DExxx ephemerides from ![NASA's JPL](https://ssd.jpl.nasa.gov/orbits.html).
 
